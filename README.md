@@ -1,0 +1,2 @@
+# GetNationalHoliday
+内閣府のデータをもとにEXCELに祝日を出力するマクロ
